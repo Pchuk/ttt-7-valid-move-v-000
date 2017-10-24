@@ -7,7 +7,7 @@ elsif index < 0
   elsif index > 8
     false
 elsif position_taken?
-  !true
+  false
 
 end
 end
