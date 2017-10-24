@@ -6,7 +6,7 @@ elsif index < 0
     false
   elsif index > 8
     false
-elsif position_taken?
+elsif position_taken?(board, index)
   false
 
 end
