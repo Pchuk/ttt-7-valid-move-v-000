@@ -7,7 +7,7 @@ elsif index < 0
   elsif index > 8
     false
 elsif position_taken?(board, index)
-  false
+  !true 
 
 end
 end
